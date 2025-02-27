@@ -53,6 +53,6 @@ This script is **unaltered** and remains as originally written by **Richard Hick
 ---
 
 ## 🔗 Credits
-- **Original Scripts:** Richard Hicks ([richardhicks.com](https://richardhicks.com/))  
+- **Original Scripts & blog post:** [Richard Hicks](https://www.scriptrunner.com/en/blog/master-managing-winget-powershell) 
 - **WingetAppInstall.ps1 Modified by:** [Kjetil Furås](https://github.com/kfuras)  
 - **UpdateWingetPackages.ps1:** Unmodified from the original author
