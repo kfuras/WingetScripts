@@ -1,0 +1,43 @@
+﻿[
+    {
+        "Name":  "PowerShell",
+        "Id":  "Microsoft.PowerShell"
+    },
+    {
+        "Name":  "Google Drive",
+        "Id":  "Google.GoogleDrive"
+    },
+    {
+        "Name":  "Google Chrome (EXE)",
+        "Id":  "Google.Chrome.EXE"
+    },
+    {
+        "Name":  "Discord",
+        "Id":  "Discord.Discord"
+    },
+    {
+        "Name":  "Microsoft Visual Studio Code",
+        "Id":  "Microsoft.VisualStudioCode"
+    },
+    {
+        "Name":  "JetBrainsMono Nerd Font",
+        "Id":  "DEVCOM.JetBrainsMonoNerdFont"
+    },
+    {
+        "Name":  "Git",
+        "Id":  "Git.Git"
+    },
+    {
+        "Name":  "Python 3.13",
+        "Id":  "Python.Python.3.13"
+    },
+    {
+        "Name":  "Notion",
+        "Id":  "Notion.Notion"
+    },
+    {
+        "Name":  "Cryptomator",
+        "Id":  "Cryptomator.Cryptomator"
+    }
+
+]
