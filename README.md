@@ -1,6 +1,6 @@
 # WingetScripts
 
-## WingetMaster.ps1
+## WingetAppInstall.ps1
 
 A PowerShell script for managing Winget package installations and updates.  
 This script automates the process of installing missing applications and updating existing ones from a `winget.json` configuration file.
