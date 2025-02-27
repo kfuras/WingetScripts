@@ -27,7 +27,7 @@ This script automates the process of installing missing applications and updatin
 4. View installation logs in `WingetAppInstall.log`.
 
 ### 🖊️ Changes Made
-This script is **based on an original script by Richard Hicks**, with the following modifications:
+This script is **based on an original script by Jeffery Hicks**, with the following modifications:
 - **Logging added** – All actions are logged in `WingetAppInstall.log`.
 - **Final log summary added** – Instead of showing installation details for each app, a single log summary appears at the end.
 - **No duplicate console logs** – Keeps PowerShell output clean.
@@ -36,7 +36,7 @@ This script is **based on an original script by Richard Hicks**, with the follow
 
 ## UpdateWingetPackages.ps1
 
-This script is **unaltered** and remains as originally written by **Richard Hicks**.
+This script is **unaltered** and remains as originally written by **Jeffery Hicks**.
 
 ### 📌 Features
 - Checks for Winget package updates.
@@ -53,6 +53,6 @@ This script is **unaltered** and remains as originally written by **Richard Hick
 ---
 
 ## 🔗 Credits
-- **Original Scripts & blog post:** [Richard Hicks](https://www.scriptrunner.com/en/blog/master-managing-winget-powershell) 
+- **Original Scripts & blog post:** [Jeffery Hicks](https://www.scriptrunner.com/en/blog/master-managing-winget-powershell) 
 - **WingetAppInstall.ps1 Modified by:** [Kjetil Furås](https://github.com/kfuras)  
 - **UpdateWingetPackages.ps1:** Unmodified from the original author
