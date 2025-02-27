@@ -1,0 +1,10 @@
+#wingetexclude.txt
+
+#Winget packages to exclude from UpdateWingetPackages.ps1 
+#This file must be in the same directory as the update script 
+#Package names will be used in a regex pattern
+
+Python 
+Discord 
+PowerShell 
+Git 
