@@ -22,7 +22,7 @@ This script automates the process of installing missing applications and updatin
 2. Open PowerShell as Administrator.
 3. Run the script:
    ```powershell
-   .\WingetMaster.ps1
+   .\WingetAppInstall.ps1
    ```
 4. View installation logs in `WingetAppInstall.log`.
 
