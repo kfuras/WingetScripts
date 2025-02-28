@@ -65,8 +65,7 @@ This script allows users to check for available package updates and selectively 
 ### 🖊️ Changes Made
 This script is **based on an original script by Jeffery Hicks**, with the following modifications:
 - **Logging added** – Logs script execution, update attempts, errors, and completion in `WingetUpdate.log`.
-- **Error handling improved** – Logs failures when updates do not succeed.
-- **Performance optimization** – Ensures smooth execution without interfering with user interaction.
+- **Error handling in log** – Logs failures when updates do not succeed.
 - **Ensures logging does not interfere with script execution**.
 
 ---
